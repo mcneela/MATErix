@@ -1,0 +1,16 @@
+Replace the underscores with the entries for each matrix you wish to multiply.
+
+Matrix 1:
+
+|1 3 2 0|
+|3 2 1 9|
+|-6 4 1.72 0.941|
+|2 -5 0 7|
+
+Matrix 2:
+
+|3 2 1 1|
+|8 5 4 6|
+|-7 -1.5 -2 -3|
+|4 5 1 2|
+
